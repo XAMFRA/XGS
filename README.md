@@ -1,4 +1,5 @@
-# XGS
+<img src = 'IMG/XGS.gif' width='60%'/>
+
 <img src = 'https://github.com/XZRFMA/XGS/blob/main/IMG/XGSBOX.png' width=255 alt = 'Awesome Tool LOL' align='right'/><br>
 ## What Does The Tool Support?
 - [X] Google Search
