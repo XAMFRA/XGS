@@ -1,9 +1,5 @@
 # XGS
-Python Code To Search On Google And Use It To Search By Dorks In Same Time
-<img src = 'https://github.com/XZRFMA/XDGe/blob/XAR/images/text.png' width=500 alt = 'Awesome Tool LOL' align='left'/>
- 
-
-<img src = 'https://github.com/XZRFMA/XDGe/blob/XAR/images/logo.png' width=255 alt = 'Awesome Tool LOL' align='right'/><br>
+<img src = 'https://github.com/XZRFMA/XGS/blob/main/IMG/XGSBOX.png' width=255 alt = 'Awesome Tool LOL' align='right'/><br>
 
 
 -
