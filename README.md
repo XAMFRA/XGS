@@ -4,7 +4,7 @@
 - [X] Google Search
 - [X] PAGE NUMBER
 
-![image](https://user-images.githubusercontent.com/87047408/134640454-0109e526-317a-4af5-9d11-1175be8f44ac.png)
+![image](IMG/example.png)
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
