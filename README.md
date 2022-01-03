@@ -10,7 +10,7 @@
 - [X] LEARN DORK COMMAND
 
 ![image](IMG/BANNER.png)
-
+<img src = 'IMG/(.onion).png' height='283'/>
 ## Programming Languages
 PYTHON <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
 
