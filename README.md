@@ -1,5 +1,5 @@
 # XGS
-<img src = 'https://github.com/XZRFMA/XGS/blob/main/IMG/XGSBOX.png' width=255 alt = 'Awesome Tool LOL' align='right'/><br>
+<img src = 'https://github.com/XZRFMA/XGS/blob/main/IMG/XGSB.png' width=255 alt = 'Awesome Tool LOL' align='right'/><br>
 ## What Does The Tool Support?
 - [X] Google Search
 - [X] PAGE NUMBER
