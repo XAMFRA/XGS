@@ -9,8 +9,9 @@
 - [X] PAGE NUMBER
 - [X] LEARN DORK COMMAND
 
-![image](IMG/BANNER.png)
-<img src = 'IMG/(.onion).png' height='283'/>
+<img src = 'IMG/BANNER.png' width='40%'/><img src = 'IMG/N.PNG' width='40%'/>
+<img src = 'IMG/(.onion).png' width='50%'/><img src = 'IMG/DORKLIST.png' width='50%'/>
+
 ## Programming Languages
 PYTHON <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
 
