@@ -1,13 +1,17 @@
-# XGS
-<img src = 'https://github.com/XZRFMA/XGS/blob/main/IMG/XGSB.png' width=255 alt = 'Awesome Tool LOL' align='right'/><br>
-## What Does The Tool Support?
-- [X] Google Search
-- [X] PAGE NUMBER
+<img src="IMG/XGSBA.png" width=60% align='cemter'>
 
-![image](IMG/example.png)
+## What Does The Tool Support?
+
+<img src = 'https://github.com/XZRFMA/XGS/blob/main/IMG/XGSB.png' width=255 alt = 'Awesome Tool LOL' align='right'/><br>
+
+- [X] GOOGLE HACKING DATABASE
+- [X] (.onion) DORK SEARCH
+- [X] PAGE NUMBER
+- [X] LEARN DORK COMMAND
+
+![image](IMG/BANNER.png)
 
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
-<img src="IMG/XGSBA.png" width=60% align='cemter'>
+PYTHON <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
 
 ![XAR's github stats](https://github-readme-stats.vercel.app/api?username=XAMFRA&show_icons=true&hide=[%22issues%22])
